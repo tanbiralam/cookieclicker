@@ -1,6 +1,6 @@
 # Cookie Clicker Automation
 
-This Python script uses Selenium to automate interactions with the Cookie Clicker game. It clicks on the cookie, accumulates cookies based on predefined conditions.
+This Python script use Selenium to automate interactions with the Cookie Clicker game. It clicks on the cookie, accumulates cookies based on predefined conditions.
 
 ## Prerequisites
 
